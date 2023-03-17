@@ -1,5 +1,7 @@
 ### Hi there!! 👋
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/GonziFlowReloaded)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-gonzalo-scali-68b0191b5/)
+
 
 <!--
 **GonziFlowReloaded/GonziFlowReloaded** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
