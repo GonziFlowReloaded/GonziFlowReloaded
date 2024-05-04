@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working at TOB Group Solutions<br>👯 I’m looking to collaborate on Data Science projects<br>🌱 I’m currently learning machine learning algorithms<br>💬 Ask me about python<br>⚡ Fun fact i love python
+<br>👯 I’m looking to collaborate on Data Science projects<br>🌱 I’m currently learning machine learning algorithms<br>💬 Ask me about python<br>⚡ Fun fact i love python
 
 
 # 💻 Tech Stack:
